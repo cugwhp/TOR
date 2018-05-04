@@ -1,21 +1,21 @@
 # TOR
 Table of Repository Groups
 
-## Courses
-### OOP-CPP
+## 1.Courses
+### 1.1 OOP-CPP
 [Course](https://github.com/cugwhp/OOPCPP)
 
 [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 
 [CPPLinks](https://github.com/MattPD/cpplinks)
 
-### RS-Instrument-Software
+### 1.2 RS-Instrument-Software
 
-### Stanford Geometry CNN
+### 1.3 Stanford Geometry CNN
 [cse291-i](https://github.com/cse291-i/cse291-i.github.io)
 
-## Remote Sensing Image Process
-### Open Sources
+## 2. Remote Sensing Image Process
+### 2.1 Open Sources
 [PostGIS](https://github.com/postgis/postgis)
 
 [QGIS-Remote-Sensing-Downloader](https://github.com/NosyParker/QGIS-Remote-Sensing-Downloader)
@@ -23,6 +23,10 @@ Table of Repository Groups
 [Proj4](https://github.com/OSGeo/proj.4)
 
 [CImg](https://github.com/dtschump/CImg)
+
+[Krita - free-professional-drawing-package-same-as-photoshop](https://krita.org/zh/)
+
+[GMIC](https://github.com/c-koi/gmic-qt)
 
 ## Point Clouds
 ### Filtering
